@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-05-14 04:19:59 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-14 04:19:59 +0000"
@@ -58,30 +52,6 @@
       "custom_test_name": "2025-05-14 04:19:59 +0000"
     },
     "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 04:20:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 04:20:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 04:20:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 04:20:00 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -140,7 +110,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-14 05:49:46 +0000",
+      "minecraft:beach": "2025-05-15 04:24:08 +0000",
       "minecraft:river": "2025-05-14 05:52:41 +0000",
+      "minecraft:snowy_plains": "2025-05-15 04:17:37 +0000",
+      "minecraft:snowy_taiga": "2025-05-15 04:26:13 +0000",
+      "minecraft:cold_ocean": "2025-05-15 04:24:23 +0000",
+      "minecraft:forest": "2025-05-15 04:18:40 +0000",
       "minecraft:ice_spikes": "2025-05-14 04:44:14 +0000",
       "minecraft:snowy_beach": "2025-05-14 04:22:40 +0000",
       "minecraft:plains": "2025-05-14 05:55:09 +0000"
@@ -294,15 +269,21 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-14 05:08:14 +0000",
+      "chicken": "2025-05-15 03:55:16 +0000",
       "sweet_berries": "2025-05-14 05:02:34 +0000",
       "cooked_beef": "2025-05-14 05:13:07 +0000",
       "baked_potato": "2025-05-14 04:53:16 +0000",
       "potato": "2025-05-14 06:14:41 +0000",
+      "cooked_cod": "2025-05-15 04:19:40 +0000",
       "bread": "2025-05-14 04:52:03 +0000",
       "rotten_flesh": "2025-05-14 04:27:18 +0000",
       "glow_berries": "2025-05-14 06:10:47 +0000",
+      "salmon": "2025-05-15 03:36:23 +0000",
       "melon_slice": "2025-05-14 06:32:27 +0000",
-      "cooked_chicken": "2025-05-14 04:57:46 +0000"
+      "cooked_chicken": "2025-05-14 04:57:46 +0000",
+      "enchanted_golden_apple": "2025-05-15 03:47:56 +0000",
+      "cooked_salmon": "2025-05-15 04:42:22 +0000",
+      "carrot": "2025-05-15 03:21:22 +0000"
     },
     "done": false
   },
@@ -644,7 +625,10 @@
       "minecraft:slime": "2025-05-14 05:21:41 +0000",
       "minecraft:cave_spider": "2025-05-14 05:05:50 +0000",
       "minecraft:stray": "2025-05-14 05:53:58 +0000",
+      "minecraft:silverfish": "2025-05-15 02:32:29 +0000",
+      "minecraft:endermite": "2025-05-15 04:00:43 +0000",
       "minecraft:zombie": "2025-05-14 04:52:47 +0000",
+      "minecraft:drowned": "2025-05-15 01:37:17 +0000",
       "minecraft:zombie_villager": "2025-05-14 06:13:59 +0000"
     },
     "done": false
@@ -1864,6 +1848,276 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-14 06:32:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-05-15 01:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-15 01:02:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-15 01:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-15 01:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-15 01:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-15 01:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-15 01:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-15 01:04:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 01:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-15 01:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-15 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-15 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-15 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-15 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-15 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-15 01:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-15 03:05:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 03:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-15 03:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-15 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-15 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-15 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-15 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-15 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-15 03:44:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-05-15 03:44:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-15 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-15 04:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-15 04:25:09 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-05-15 04:26:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-05-15 04:37:21 +0000"
     },
     "done": true
   },
