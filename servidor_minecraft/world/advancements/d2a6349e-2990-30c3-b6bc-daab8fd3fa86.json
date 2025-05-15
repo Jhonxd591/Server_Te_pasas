@@ -80,10 +80,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-15 00:53:33 +0000",
+      "minecraft:beach": "2025-05-15 05:02:32 +0000",
       "minecraft:river": "2025-05-15 04:14:22 +0000",
       "minecraft:snowy_plains": "2025-05-15 04:17:29 +0000",
       "minecraft:snowy_taiga": "2025-05-15 04:25:58 +0000",
-      "minecraft:ice_spikes": "2025-05-15 01:06:10 +0000"
+      "minecraft:cold_ocean": "2025-05-15 05:02:18 +0000",
+      "minecraft:forest": "2025-05-15 05:03:06 +0000",
+      "minecraft:ice_spikes": "2025-05-15 01:06:10 +0000",
+      "minecraft:snowy_beach": "2025-05-15 05:02:11 +0000"
     },
     "done": false
   },
@@ -637,11 +641,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-15 05:05:06 +0000",
       "minecraft:skeleton": "2025-05-15 01:55:43 +0000",
       "minecraft:spider": "2025-05-15 03:21:20 +0000",
       "minecraft:creeper": "2025-05-15 01:14:49 +0000",
       "minecraft:cave_spider": "2025-05-15 01:37:32 +0000",
       "minecraft:stray": "2025-05-15 04:16:19 +0000",
+      "minecraft:vex": "2025-05-15 04:48:35 +0000",
       "minecraft:zombie": "2025-05-15 01:18:33 +0000"
     },
     "done": false
@@ -1801,6 +1807,36 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-05-15 04:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-15 04:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-15 04:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-15 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-15 04:53:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 05:05:06 +0000"
     },
     "done": true
   },
