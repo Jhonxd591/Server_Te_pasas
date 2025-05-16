@@ -503,6 +503,7 @@
       "cooked_beef": "2025-05-15 04:22:40 +0000",
       "baked_potato": "2025-05-15 01:32:52 +0000",
       "bread": "2025-05-15 03:29:31 +0000",
+      "rotten_flesh": "2025-05-16 05:24:19 +0000",
       "glow_berries": "2025-05-15 02:14:05 +0000",
       "cooked_chicken": "2025-05-15 00:57:19 +0000",
       "cooked_salmon": "2025-05-16 05:16:10 +0000"
@@ -1903,9 +1904,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 05:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-05-16 05:16:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-05-16 05:27:02 +0000"
     },
     "done": true
   },
