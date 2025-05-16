@@ -445,3 +445,20 @@
 [16May2025 05:13:27.425] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
 [16May2025 05:14:32.074] [Server thread/WARN] [tombstone/]: The death event of the player ALEss0312 was canceled by another mod
 [16May2025 05:14:32.075] [Server thread/INFO] [tombstone/]: The player ALEss0312 has successfully been saved
+[16May2025 05:20:38.473] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[16May2025 05:20:38.474] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[16May2025 05:20:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by ALEss0312
+[16May2025 05:20:40.927] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.standard_16.05.2025-05.20.40.dat
+[16May2025 05:20:40.928] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[16May2025 05:21:10.573] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[16May2025 05:21:10.574] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[16May2025 05:21:17.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has reached the goal [Chain Death]
+[16May2025 05:21:17.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by ALEss0312
+[16May2025 05:21:17.779] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.standard_16.05.2025-05.21.17.dat
+[16May2025 05:21:17.780] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[16May2025 05:21:52.224] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[16May2025 05:21:52.226] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved
+[16May2025 05:22:05.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 was slain by ALEss0312
+[16May2025 05:22:05.802] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jhonxd592 with unique ID travelersbackpack.standard_16.05.2025-05.22.05.dat
+[16May2025 05:23:40.624] [Server thread/WARN] [tombstone/]: The death event of the player Jhonxd592 was canceled by another mod
+[16May2025 05:23:40.626] [Server thread/INFO] [tombstone/]: The player Jhonxd592 has successfully been saved

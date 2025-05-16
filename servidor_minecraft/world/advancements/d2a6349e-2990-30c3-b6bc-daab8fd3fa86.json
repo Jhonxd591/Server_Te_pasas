@@ -504,7 +504,8 @@
       "baked_potato": "2025-05-15 01:32:52 +0000",
       "bread": "2025-05-15 03:29:31 +0000",
       "glow_berries": "2025-05-15 02:14:05 +0000",
-      "cooked_chicken": "2025-05-15 00:57:19 +0000"
+      "cooked_chicken": "2025-05-15 00:57:19 +0000",
+      "cooked_salmon": "2025-05-16 05:16:10 +0000"
     },
     "done": false
   },
@@ -1878,9 +1879,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_flint": "2025-05-16 05:10:02 +0000"
+      "coded_trigger": "2025-05-16 05:08:13 +0000"
     },
     "done": true
   },
@@ -1890,15 +1891,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-16 05:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-16 05:10:02 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
-      "coded_trigger": "2025-05-16 05:08:13 +0000"
+      "has_white_tulip": "2025-05-16 05:16:50 +0000"
     },
     "done": true
   },
