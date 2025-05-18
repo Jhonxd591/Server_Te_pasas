@@ -3034,7 +3034,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-17 17:14:42 +0000",
       "minecraft:nether_wastes": "2025-05-17 17:15:26 +0000",
-      "minecraft:soul_sand_valley": "2025-05-18 03:08:27 +0000"
+      "minecraft:soul_sand_valley": "2025-05-18 03:08:27 +0000",
+      "minecraft:warped_forest": "2025-05-18 04:23:17 +0000"
     },
     "done": false
   },
@@ -3206,6 +3207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-18 04:19:57 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-05-18 04:06:24 +0000"
@@ -3272,6 +3279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-18 04:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-18 04:06:24 +0000"
@@ -3305,6 +3318,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-18 04:05:30 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-05-18 04:17:32 +0000"
     },
     "done": true
   },
@@ -3368,6 +3387,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-05-18 04:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-18 04:05:30 +0000"
@@ -3428,6 +3453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-18 04:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-18 03:45:08 +0000"
@@ -3449,6 +3480,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-05-18 04:16:36 +0000"
     },
     "done": true
   },
