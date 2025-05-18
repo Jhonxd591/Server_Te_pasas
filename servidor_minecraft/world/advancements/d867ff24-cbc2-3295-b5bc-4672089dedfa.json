@@ -61,6 +61,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-18 03:45:52 +0000",
       "minecraft:skeleton": "2025-05-14 05:08:46 +0000",
       "minecraft:ravager": "2025-05-15 04:47:35 +0000",
       "minecraft:hoglin": "2025-05-18 02:35:49 +0000",
@@ -3049,6 +3050,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-18 02:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-18 02:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-05-18 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-05-18 02:31:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-05-18 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-18 02:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-18 02:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-05-18 02:40:48 +0000"
@@ -3067,12 +3110,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-05-18 02:28:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-18 02:40:48 +0000"
@@ -3082,24 +3119,6 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-05-18 02:40:48 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_lava_eater": {
-    "criteria": {
-      "lava_eater": "2025-05-18 02:50:17 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2025-05-18 03:08:27 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2025-05-18 02:41:50 +0000"
     },
     "done": true
   },
@@ -3115,39 +3134,9 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_lava_eater": {
-    "criteria": {
-      "ambusher": "2025-05-18 02:55:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-18 02:37:00 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-05-18 02:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-18 02:38:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-05-18 02:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-05-18 02:25:50 +0000"
     },
     "done": true
   },
@@ -3157,21 +3146,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
-      "has_red_flower": "2025-05-18 02:21:33 +0000"
+      "requirement": "2025-05-18 02:41:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "has_orange_tulip": "2025-05-18 02:31:45 +0000"
+      "requirement": "2025-05-18 02:41:53 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/cooked_hogham": {
+  "legendary_monsters:locate_lava_eater": {
     "criteria": {
-      "has_item": "2025-05-18 02:36:07 +0000"
+      "lava_eater": "2025-05-18 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-05-18 02:55:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-05-18 03:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-18 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-05-18 03:38:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-18 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-18 03:45:13 +0000"
     },
     "done": true
   },
