@@ -62,6 +62,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-14 04:19:05 +0000",
+      "minecraft:dark_forest": "2025-05-18 02:46:04 +0000",
       "minecraft:river": "2025-05-14 05:39:17 +0000",
       "minecraft:snowy_taiga": "2025-05-15 01:25:17 +0000",
       "minecraft:forest": "2025-05-18 02:17:37 +0000",
@@ -607,7 +608,8 @@
       "bread": "2025-05-14 05:25:48 +0000",
       "golden_apple": "2025-05-14 06:11:21 +0000",
       "rotten_flesh": "2025-05-14 04:23:28 +0000",
-      "cooked_salmon": "2025-05-14 04:45:44 +0000"
+      "cooked_salmon": "2025-05-14 04:45:44 +0000",
+      "carrot": "2025-05-18 02:53:09 +0000"
     },
     "done": false
   },
@@ -2765,9 +2767,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-05-18 02:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-18 02:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
     },
     "done": true
   },
@@ -2777,9 +2809,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-18 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-18 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-18 02:43:17 +0000"
     },
     "done": true
   },
@@ -2795,6 +2851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-18 02:20:19 +0000"
@@ -2804,6 +2866,24 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-18 02:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-18 02:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-18 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
     },
     "done": true
   },
@@ -2819,9 +2899,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-05-18 02:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-18 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:49:04 +0000"
     },
     "done": true
   },
@@ -2834,6 +2926,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-18 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-05-18 02:43:17 +0000"
     },
     "done": true
   },
