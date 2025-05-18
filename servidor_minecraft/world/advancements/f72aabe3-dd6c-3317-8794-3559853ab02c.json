@@ -64,9 +64,13 @@
       "minecraft:frozen_river": "2025-05-14 04:19:05 +0000",
       "minecraft:river": "2025-05-14 05:39:17 +0000",
       "minecraft:snowy_taiga": "2025-05-15 01:25:17 +0000",
+      "minecraft:forest": "2025-05-18 02:17:37 +0000",
+      "minecraft:lush_caves": "2025-05-18 02:27:19 +0000",
       "minecraft:ice_spikes": "2025-05-14 05:38:09 +0000",
       "minecraft:frozen_ocean": "2025-05-14 04:11:33 +0000",
       "minecraft:snowy_beach": "2025-05-14 04:06:57 +0000",
+      "minecraft:windswept_savanna": "2025-05-18 02:13:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-18 02:26:47 +0000",
       "minecraft:plains": "2025-05-14 05:39:39 +0000"
     },
     "done": false
@@ -2758,6 +2762,78 @@
   "travelersbackpack:recipes/misc/redstone_smithing": {
     "criteria": {
       "has_redstone": "2025-05-15 02:38:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-18 02:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 02:20:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-18 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-18 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 02:20:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 02:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-18 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-18 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-18 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 02:33:16 +0000"
     },
     "done": true
   },
