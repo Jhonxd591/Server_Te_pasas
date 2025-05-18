@@ -3056,12 +3056,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2025-05-18 04:17:21 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
     "criteria": {
       "has_yellow_wool": "2025-05-18 03:52:30 +0000"
@@ -3074,12 +3068,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-18 04:03:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-05-18 03:52:30 +0000"
@@ -3089,6 +3077,18 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-05-18 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-18 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-05-18 04:17:21 +0000"
     },
     "done": true
   },
