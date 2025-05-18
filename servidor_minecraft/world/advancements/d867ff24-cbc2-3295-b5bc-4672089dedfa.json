@@ -3032,7 +3032,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-17 17:14:42 +0000",
-      "minecraft:nether_wastes": "2025-05-17 17:15:26 +0000"
+      "minecraft:nether_wastes": "2025-05-17 17:15:26 +0000",
+      "minecraft:soul_sand_valley": "2025-05-18 03:08:27 +0000"
     },
     "done": false
   },
@@ -3090,6 +3091,12 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-05-18 03:08:27 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
       "requirement": "2025-05-18 02:41:50 +0000"
@@ -3105,6 +3112,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-18 02:40:48 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-05-18 02:55:48 +0000"
     },
     "done": true
   },
