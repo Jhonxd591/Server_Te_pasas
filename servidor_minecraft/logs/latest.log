@@ -581,3 +581,14 @@
 [18May2025 05:02:56.100] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [18May2025 05:04:37.841] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/10704, l='ServerLevel[world]', x=1294.00, y=31.00, z=525.00] as it would cause deadlock
 [18May2025 05:07:09.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <s22e310> [name:"lava", x:457, y:79, z:641, dim:minecraft:overworld]
+[18May2025 05:11:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has completed the challenge [Subspace Bubble]
+[18May2025 05:11:50.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8204ms or 164 ticks behind
+[18May2025 05:12:05.388] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[18May2025 05:12:05.388] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[18May2025 05:12:10.761] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[18May2025 05:12:10.770] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[18May2025 05:12:21.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Hot Stuff]
+[18May2025 05:18:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [We Need to Go Deeper]
+[18May2025 05:18:48.542] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/19703, l='ServerLevel[world]', x=-134.00, y=31.00, z=-47.00] as it would cause deadlock
+[18May2025 05:19:09.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Hidden in the Depths]
+[18May2025 05:19:11.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Frightening Rush]

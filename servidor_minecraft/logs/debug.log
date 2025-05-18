@@ -4348,3 +4348,76 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18May2025 05:07:39.687] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
 [18May2025 05:08:46.018] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
 [18May2025 05:09:18.121] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:09:41.218] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[18May2025 05:09:41.232] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_1 is being run through DFU (hash f83a08665efb18a957ad08768d4992b244d90f08eb2106c3e758a0663b5bce69), this will cause launch time delays
+[18May2025 05:09:41.292] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_5 is being run through DFU (hash 942da1f93d36cec1108eee837cd4f83ef594a7561a494a3f2907926d63f416f2), this will cause launch time delays
+[18May2025 05:09:41.318] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0 is being run through DFU (hash 3bfc8ff3f3ebe009489efe9360b216a449859cea932618c5b7f7b07ed916e677), this will cause launch time delays
+[18May2025 05:09:41.457] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_3 is being run through DFU (hash 84becc53712d1abd55fa171bf28df8aa92cf0cc5fefbe440f611c38461a1ac32), this will cause launch time delays
+[18May2025 05:09:41.474] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_1 is being run through DFU (hash d071b56dfb91802d6e283fcc6fe89bdd362f5d2f7ac61c6bfd8cf9d3b46e72cb), this will cause launch time delays
+[18May2025 05:09:41.489] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_0 is being run through DFU (hash 7215f38da0a4e40c5e3be9df2d522385c374364fd66a15dc8268b8b24f3ab0bf), this will cause launch time delays
+[18May2025 05:09:41.501] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_2 is being run through DFU (hash 464b12e8377965d0b6d5137e86de34708c3a05f3168a57506f77385520d0e222), this will cause launch time delays
+[18May2025 05:09:41.514] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_3 is being run through DFU (hash 5af8fe5a34f5e8167681b21570c8d42e9103c66e0efab3011a04021c1f279f1a), this will cause launch time delays
+[18May2025 05:09:41.528] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_6 is being run through DFU (hash a9be9a543f6d46326b4730af976341e8d5312d2214944435878a24cce93506a2), this will cause launch time delays
+[18May2025 05:09:41.545] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_0 is being run through DFU (hash bca7da9b36eca8f10a5ad8a2a45935fca02a69a04d38250f3e1e572d5665f655), this will cause launch time delays
+[18May2025 05:09:41.567] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0 is being run through DFU (hash 2f6487228a3805c0d7b00c112bef4ac8f35a296c762be52dea96a6c4a594531c), this will cause launch time delays
+[18May2025 05:09:41.586] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_4 is being run through DFU (hash a15946f6340c8b1ac52809325a6588f53b27f1948d22d65d91cbd84d289e1c0c), this will cause launch time delays
+[18May2025 05:09:41.599] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_2 is being run through DFU (hash 1d89d7a684d39b030355334cc2b0c16afc3437b8dacdba4ea1580a6bea3dac51), this will cause launch time delays
+[18May2025 05:09:41.610] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_0 is being run through DFU (hash 9e48f551458ddfcade896d7ca305b591643588d914e715ce873200d9884cb6fe), this will cause launch time delays
+[18May2025 05:09:41.645] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0 is being run through DFU (hash 9a942708f01af3adf4474a483508d1e8ec94602d50f0443a647aa229bb5cbbcc), this will cause launch time delays
+[18May2025 05:09:41.699] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_4 is being run through DFU (hash aaa608531a138f09a33e86da9867a8d90f3d6753090fa2fd9e1da696c46be10e), this will cause launch time delays
+[18May2025 05:09:41.732] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_2 is being run through DFU (hash 6477a7cd80a030726efdea868090e5e04e92e17689fdea73f4f8f83e5882c523), this will cause launch time delays
+[18May2025 05:09:41.794] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_3 is being run through DFU (hash 8e2f5381d72ddfcfab26d74f2027172086828df75d6022dd0914e8d9b6cbeb54), this will cause launch time delays
+[18May2025 05:09:41.805] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_1 is being run through DFU (hash 01652cf47c7082e9f19c45124baadfe81ef490bca3ad6175714197c8462db8a1), this will cause launch time delays
+[18May2025 05:09:41.807] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_5 is being run through DFU (hash b16287199ebfbf48f13985ac661a303cff3f3b751066c1a42639e2363467086e), this will cause launch time delays
+[18May2025 05:09:55.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 05:09:55.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 05:11:42.705] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[18May2025 05:11:42.797] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[18May2025 05:11:42.814] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[18May2025 05:11:42.888] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[18May2025 05:11:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has completed the challenge [Subspace Bubble]
+[18May2025 05:11:47.034] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[18May2025 05:11:47.047] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_2 is being run through DFU (hash da7f1deb0b77b0f8667eda3ba3fda9c5c75ade4af3004c00c083f938648ff3e5), this will cause launch time delays
+[18May2025 05:11:47.105] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_4 is being run through DFU (hash f3932892b604600e428081e4a542935e9a00995b6c481c30adb1f6ab16bf7e79), this will cause launch time delays
+[18May2025 05:11:47.117] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9 is being run through DFU (hash 6293df4c81894ce8b3e8a56abaa01424c1a6cac59c614e082db3158d42ddd31f), this will cause launch time delays
+[18May2025 05:11:47.125] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_6 is being run through DFU (hash 1fb7c9ab0aaf7a35b6a923795c4ae5b38d9ded0b73e065c65b86ca7ebfadff14), this will cause launch time delays
+[18May2025 05:11:47.136] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_8 is being run through DFU (hash b7cc30a702c44a2cc0b28950c3bc152375e182e408805dbc64d257d156ecf007), this will cause launch time delays
+[18May2025 05:11:47.143] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_3 is being run through DFU (hash 12513970bce74eba74a6b41bae2df8647b4bd26da3c4e614be438ebe0ee9edf5), this will cause launch time delays
+[18May2025 05:11:47.151] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_7 is being run through DFU (hash bb5404a6c2bc9e3bd439cfcb673c632864d292987d5e5a46f336605767b48f9e), this will cause launch time delays
+[18May2025 05:11:47.158] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0 is being run through DFU (hash 7a1d81e5236fab5256b01fb5cdd848d9073d3d1e037a83520b6e09076e4d121f), this will cause launch time delays
+[18May2025 05:11:47.172] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1 is being run through DFU (hash d9769b372e1f6e6c891c4f74447e7bed82796805d5da8a574172198704f843cc), this will cause launch time delays
+[18May2025 05:11:47.180] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_10 is being run through DFU (hash 738eb05ca3f051edf6dcfc5f67265b68a5a34f2e6f3d378e9f14f12b821e1506), this will cause launch time delays
+[18May2025 05:11:47.187] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_5 is being run through DFU (hash b1657af517de8ee46edf86e07bc19226fecd5eaa4be6c6dbb02766ed320b6a8e), this will cause launch time delays
+[18May2025 05:11:48.213] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[18May2025 05:11:50.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8204ms or 164 ticks behind
+[18May2025 05:11:51.994] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[18May2025 05:12:05.388] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[18May2025 05:12:05.388] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[18May2025 05:12:06.404] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[18May2025 05:12:06.440] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[18May2025 05:12:06.457] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[18May2025 05:12:06.467] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[18May2025 05:12:06.480] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[18May2025 05:12:06.505] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[18May2025 05:12:10.761] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[18May2025 05:12:10.770] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[18May2025 05:12:13.835] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[18May2025 05:12:21.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Hot Stuff]
+[18May2025 05:12:28.217] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[18May2025 05:12:28.262] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18May2025 05:12:28.289] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[18May2025 05:15:03.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 05:15:03.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 05:16:34.819] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:16:39.364] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:16:43.962] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:17:01.466] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:18:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [We Need to Go Deeper]
+[18May2025 05:18:38.068] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:18:48.542] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/19703, l='ServerLevel[world]', x=-134.00, y=31.00, z=-47.00] as it would cause deadlock
+[18May2025 05:18:54.068] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:19:02.115] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:19:02.771] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18May2025 05:19:09.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhonxd592 has made the advancement [Hidden in the Depths]
+[18May2025 05:19:11.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herondale has made the advancement [Frightening Rush]
+[18May2025 05:19:30.866] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
